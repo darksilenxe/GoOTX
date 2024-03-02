@@ -1,7 +1,5 @@
 # GoOTX for the Alien Vault OTX API
 
-👽👽
-
 ![image](https://github.com/darksilenxe/GoOTX/assets/129991071/bf67412e-d551-4b11-ad13-bf9adb308dac)
 [Alienvault OTX](https://otx.alienvault.com/)
 
