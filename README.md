@@ -2,7 +2,7 @@
 
 👽👽
 
-[Alienvault OTX](https://otx.alienvault.com/)
+[!][Alienvault OTX](https://otx.alienvault.com/)
 
 
 While exploring scripts to interact with Alienvault OTX API, I decided to write my own implementation using Go. I wanted to parse out only the indicators, so I could feed the non-json plan text information into other security tools I utilize in my home network. This has been a learning experience for me, as I'm not a programmer professional. However, as I evolve in my career as cybersecurity professional, I decided It's time to learn. 
