@@ -5,7 +5,7 @@ While exploring scripts to interact with Alienvault OTX API, I decided to write 
 
 ## Disclaimer
 
-I had a little help from ChatGPT, but that only after months of trial and error. 
+I had a little help from ChatGPT, but that's only after months of trial and error. 
 
 ## How to use the application
 
