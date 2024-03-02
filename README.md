@@ -1,4 +1,4 @@
-# GoOTX for the Alienvault OTX
+# GoOTX for the Alienvault OTX API
 [Alienvault OTX](https://otx.alienvault.com/)
 
 
