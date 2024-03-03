@@ -21,4 +21,6 @@ The application will filter the json data, and create a text files based on indi
 
 [2] Add additional support for other OTX API endpoints. 
 
+[3] Add integration for POST requests for security tool APIs. 
+
 Please add comments for additional suggestions. 
