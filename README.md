@@ -13,4 +13,12 @@ I had a little help from ChatGPT, but that's only after months of trial and erro
 
 In my example I'm using `go run otx.go` to excute the code. The application will as for your OTX API key. If you don't have a key, you can create a free account on Alienvault's website.
 
-The application will filter the json data, and create a text files based on indicator types. The text file output will be the resulting values for the selected types. 
+The application will filter the json data, and create a text files based on indicator types. The text file output will be the resulting values for the selected types.
+
+# Todo's 
+
+1] Add additional IOCs
+
+2] Add additional support for other OTX API endpoints. 
+
+Please add comments for additional suggestions. 
