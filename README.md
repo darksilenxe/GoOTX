@@ -24,3 +24,7 @@ The application will filter the json data, and create a text files based on indi
 [3] Add integration for POST requests for security tool APIs. 
 
 Please add comments for additional suggestions. 
+
+# Code on Conduct
+
+[Code of Conduct](CODE_OF_CONDUCT.md)
