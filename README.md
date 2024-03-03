@@ -17,8 +17,8 @@ The application will filter the json data, and create a text files based on indi
 
 # Todo's 
 
-1] Add additional IOCs
+[1] Add additional IOCs
 
-2] Add additional support for other OTX API endpoints. 
+[2] Add additional support for other OTX API endpoints. 
 
 Please add comments for additional suggestions. 
