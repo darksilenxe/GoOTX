@@ -5,7 +5,7 @@ While exploring scripts to interact with Alienvault OTX API, I decided to write 
 
 ## How to use the application
 
-In my example I'm using `go run otx.go` to excute the code. The application will as for your OTX API key. If you don't have a key, you can create a free account on Alienvault's website.
+In my example I'm using `go run otx.go` to execute the code. The application will ask for your OTX API key. If you don't have a key, you can create a free account on Alienvault's website.[[Alienvault OTX]]
 
 The application will filter the json data, and create a text files based on indicator types. The text file output will be the resulting values for the selected types.
 
